@@ -1,6 +1,6 @@
 ---
 title: LoremIpsum
-date: 2022-3-10 HH:MM:SS +/-TTTT
+date: 2022-3-10
 categories: [Blog, Demo]
 tags: [lorem, ipsum]     # TAG names should always be lowercase
 ---
